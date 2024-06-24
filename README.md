@@ -8,6 +8,12 @@ The number after the file name -'20240619075612', represents the date and time i
 ## Keep In Mind
 The current implementation of the code is tailored to filenames in the format: '/path/to/file example_YYYYMMDDHHMMSS.ext'. If the format of the filenames changes, the code will need to be adjusted accordingly.
 
+To adapt the code to different filename formats, you need to:
+<br>
+1. Update the way the base filename is extracted.
+2. Modify how the timestamp string is identified and extracted.
+3. Adjust the slicing for date and time extraction if the length or position of the timestamp changes.
+
 
 
 ## Explanation Of Code
