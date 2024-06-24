@@ -104,6 +104,11 @@ for i in range(len(filenames) - 1):
 ##
 This script is useful for analyzing video files or other files that have timestamps embedded in their filenames, making it easier to track when each file was created or modified.
 
+##
+I hope this explanation was helpful to you.</br>
+Thank you for your support.</br>
+Keep Learning.</br>
+~Pranjali Goyal</br>
 
 
 
